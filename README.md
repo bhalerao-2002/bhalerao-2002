@@ -14,3 +14,11 @@
 ## Leetcode profile [🔗Link](https://leetcode.com/Leet_rushi02/)
 
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=Leet_rushi02&theme=dark)]([https://github.com/KnlnKS/leetcode-stats](https://leetcode.com/Leet_rushi02/))
+
+
+<a href=#><img src="contributions.svg"></a>
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/bhalerao-2002/count.svg" />
+</p>
