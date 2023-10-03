@@ -15,3 +15,8 @@
 ## Leetcode profile [🔗Link](link)
 
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=Leet_rushi02&theme=dark)]([https://github.com/KnlnKS/leetcode-stats](https://leetcode.com/Leet_rushi02/))
+
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhalerao-2002&show_icons=true&locale=en&layout=compact" alt="bhalerao-2002" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bhalerao-2002&" alt="bhalerao-2002" /></p>
