@@ -29,8 +29,5 @@
    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=bhalerao-2002&count_private=true&show_icons=true&theme=chartreuse-dark">  
 <br>
 
-## Practice leads to Power 💪 [(Profile)](https://leetcode.com/bhalerao-2002/)
-
-  [![bhalerao's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=bhalerao-2002&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
 <br>
 <br>
