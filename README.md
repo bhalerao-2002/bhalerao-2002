@@ -3,7 +3,7 @@
   
 - 🔭 I’m currently working on Advance DataStructures & Algorithms 
 - 🌱 I’m currently learning Web3.0
-- 📫 Here can you reach to me: [LinkedIn](https://www.linkedin.com/in/rushikesh-bhalerao-4313a01b1/)
+- 📫 Here can you reach to me: developer2002rb@gmail.com
 - 😄 Pronouns: Rishi.
   
 <br>
